@@ -133,7 +133,7 @@ Toward you.</p>
       <a href="https://youtu.be/O1GLrVOvJkM" target="_blank" rel="noopener">
   <img class="doc-media" src="assets/photos/cover-img-dm.jpg" alt="Watch on YouTube">
 </a>
-<h6> tap on images to play the video</h6>
+<h6> tap on image to play the video</h6>
       <p class="cross-links">See also:
         <a href="#" data-open="concept">Concept</a> ·
         <a href="#" data-open="documentation">Documentation</a>

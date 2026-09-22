@@ -26,7 +26,7 @@ At the end of the interaction, the system produces a printed FIR marked “FOUND
   <img class="doc-media" src="assets/photos/physical landscape.jpg" alt="Watch on YouTube">
 </a>
         
-<h6> tap on images to play the video</h6>
+<h6> tap on image to play the video</h6>
         <div>
       <p class="cross-links">See also:
         <a href="#" data-open="experience">Experience</a> ·
