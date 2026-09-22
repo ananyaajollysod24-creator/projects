@@ -130,7 +130,10 @@ Toward you.</p>
     body: `
       <h3>Installation</h3>
       <p>A video of the installation goes here. The silhouette in the middle is used for projection mapping.</p>
-      <video class="doc-media" src="assets/video/finaldrafthopefully.mp4" controls></video>
+      <a href="https://youtu.be/O1GLrVOvJkM" target="_blank" rel="noopener">
+  <img class="doc-media" src="assets/photos/cover-img-dm.jpg" alt="Watch on YouTube">
+</a>
+<h6> tap on images to play the video</h6>
       <p class="cross-links">See also:
         <a href="#" data-open="concept">Concept</a> ·
         <a href="#" data-open="documentation">Documentation</a>

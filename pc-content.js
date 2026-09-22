@@ -22,7 +22,11 @@ At the end of the interaction, the system produces a printed FIR marked “FOUND
 <br>
 <h3>Documentery</h3>
 <div class="doc-grid">
-        <video class="doc-media doc-full" src="assets/video/Sequence 01.mp4" controls></video>
+<a href="https://youtu.be/0zotlGPfNj0" target="_blank" rel="noopener">
+  <img class="doc-media" src="assets/photos/physical landscape.jpg" alt="Watch on YouTube">
+</a>
+        
+<h6> tap on images to play the video</h6>
         <div>
       <p class="cross-links">See also:
         <a href="#" data-open="experience">Experience</a> ·
